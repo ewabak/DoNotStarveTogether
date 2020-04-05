@@ -1,0 +1,14 @@
+[00:01:43]: [Join Announcement] ewa.j.bak
+[00:10:30]: [Join Announcement] whoifnotme
+[00:10:46]: [Join Announcement] BrylatOrigin
+[00:30:06]: [Join Announcement] karol_s16
+[00:35:12]: [Leave Announcement] BrylatOrigin
+[00:40:22]: [Leave Announcement] karol_s16
+[00:42:29]: [Join Announcement] karol_s16
+[00:45:59]: [Join Announcement] BrylatOrigin
+[00:48:16]: [Skin Announcement] ewa.j.bak hand_wurt_formal
+[00:59:08]: [Skin Announcement] karol_s16 feet_wilson_victorian
+[01:01:06]: [Leave Announcement] BrylatOrigin
+[01:01:12]: [Leave Announcement] karol_s16
+[01:01:19]: [Death Announcement] whoifnotme was killed by Spider Warrior. He became a spooky ghost!
+[01:01:38]: [Leave Announcement] ewa.j.bak

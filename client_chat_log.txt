@@ -1,0 +1,46 @@
+[00:12:42]: [Join Announcement] whoifnotme
+[00:15:47]: [Join Announcement] karol_s16
+[00:31:24]: [Leave Announcement] whoifnotme
+[00:31:24]: [Leave Announcement] karol_s16
+[00:32:07]: [Join Announcement] karol_s16
+[00:33:33]: [Join Announcement] whoifnotme
+[00:33:52]: [Leave Announcement] karol_s16
+[00:36:03]: [Join Announcement] karol_s16
+[00:37:01]: [Leave Announcement] karol_s16
+[00:38:25]: [Join Announcement] karol_s16
+[00:53:50]: [Skin Announcement] karol_s16 hand_wormwood_cactus
+[01:04:47]: [Leave Announcement] whoifnotme
+[01:04:58]: [Death Announcement] ewa.j.bak was killed by Blue Hound. She became a spooky ghost!
+[01:07:49]: [Join Announcement] karol_s16
+[01:08:35]: [Join Announcement] whoifnotme
+[01:09:29]: [Leave Announcement] whoifnotme
+[01:09:33]: [Leave Announcement] karol_s16
+[01:10:30]: [Join Announcement] karol_s16
+[01:13:04]: [Join Announcement] whoifnotme
+[01:23:58]: [Leave Announcement] karol_s16
+[01:24:06]: [Leave Announcement] whoifnotme
+[01:25:16]: [Join Announcement] karol_s16
+[01:27:30]: [Join Announcement] whoifnotme
+[01:28:49]: [Leave Announcement] karol_s16
+[01:28:49]: [Leave Announcement] whoifnotme
+[01:33:34]: [Join Announcement] whoifnotme
+[01:36:38]: [Join Announcement] karol_s16
+[01:38:13]: [Join Announcement] BrylatOrigin
+[01:54:13]: [Leave Announcement] BrylatOrigin
+[01:54:13]: [Leave Announcement] whoifnotme
+[01:54:13]: [Leave Announcement] karol_s16
+[01:54:51]: [Join Announcement] BrylatOrigin
+[01:56:13]: [Join Announcement] whoifnotme
+[01:57:20]: [Join Announcement] karol_s16
+[02:03:37]: [Leave Announcement] BrylatOrigin
+[02:05:34]: [Join Announcement] BrylatOrigin
+[02:07:31]: [Death Announcement] ewa.j.bak was killed by Terrorbeak. She became a spooky ghost!
+[02:07:35]: [Death Announcement] BrylatOrigin was killed by Terrorbeak. He became a spooky ghost!
+[02:10:09]: [Join Announcement] BrylatOrigin
+[02:10:34]: [Join Announcement] karol_s16
+[02:11:04]: [Join Announcement] whoifnotme
+[02:12:51]: [Leave Announcement] BrylatOrigin
+[02:12:51]: [Leave Announcement] whoifnotme
+[02:12:52]: [Leave Announcement] karol_s16
+[02:14:32]: [Join Announcement] whoifnotme
+[02:14:44]: [Leave Announcement] whoifnotme

@@ -1,0 +1,17 @@
+[00:01:02]: [Join Announcement] ewa.j.bak
+[00:05:07]: [Join Announcement] whoifnotme
+[00:08:12]: [Join Announcement] karol_s16
+[00:23:49]: [Leave Announcement] whoifnotme
+[00:23:49]: [Leave Announcement] karol_s16
+[00:24:32]: [Join Announcement] karol_s16
+[00:25:58]: [Join Announcement] whoifnotme
+[00:26:17]: [Leave Announcement] karol_s16
+[00:28:28]: [Join Announcement] karol_s16
+[00:29:26]: [Leave Announcement] karol_s16
+[00:30:50]: [Join Announcement] karol_s16
+[00:37:31]: [Skin Announcement] ewa.j.bak legs_pants_basic_green_forest
+[00:46:15]: [Skin Announcement] karol_s16 hand_wormwood_cactus
+[00:57:12]: [Leave Announcement] whoifnotme
+[00:57:23]: [Death Announcement] ewa.j.bak was killed by Blue Hound. She became a spooky ghost!
+[00:57:28]: [Leave Announcement] ewa.j.bak
+[00:57:29]: [Leave Announcement] karol_s16

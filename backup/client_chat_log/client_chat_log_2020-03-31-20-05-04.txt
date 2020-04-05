@@ -1,0 +1,33 @@
+[00:11:28]: [Join Announcement] whoifnotme
+[00:49:46]: [Death Announcement] ewa.j.bak was killed by Tentacle. She became a spooky ghost!
+[00:53:03]: [Resurrect Announcement] ewa.j.bak was resurrected by whoifnotme.
+[01:03:20]: [Death Announcement] whoifnotme was killed by Tentacle. He became a spooky ghost!
+[01:05:55]: [Death Announcement] ewa.j.bak was killed by Tentacle. She became a spooky ghost!
+[01:08:59]: [Join Announcement] whoifnotme
+[01:13:26]: [Join Announcement] karol_s16
+[01:35:37]: [Death Announcement] ewa.j.bak was killed by Hound. She became a spooky ghost!
+[01:36:09]: [Vote Announcement] rollback passed
+[01:38:21]: [Leave Announcement] whoifnotme
+[01:40:25]: [Death Announcement] ewa.j.bak was killed by Hound. She became a spooky ghost!
+[01:43:47]: [Join Announcement] karol_s16
+[01:43:57]: [Join Announcement] whoifnotme
+[01:46:53]: [Death Announcement] whoifnotme was killed by Hound. He became a spooky ghost!
+[01:47:09]: [Leave Announcement] whoifnotme
+[01:50:03]: [Join Announcement] karol_s16
+[01:55:28]: [Join Announcement] whoifnotme
+[02:26:41]: [Death Announcement] karol_s16 was killed by Freezing. He became a spooky ghost!
+[02:28:02]: [Leave Announcement] karol_s16
+[02:29:05]: [Death Announcement] whoifnotme was killed by Pepper. He became a spooky ghost!
+[02:32:41]: [Join Announcement] whoifnotme
+[02:35:39]: [Join Announcement] karol_s16
+[02:35:55]: [Join Announcement] whoifnotme
+[02:57:57]: [Death Announcement] karol_s16 was killed by Terrorbeak. He became a spooky ghost!
+[02:58:03]: [Leave Announcement] karol_s16
+[02:59:50]: [Join Announcement] karol_s16
+[03:04:08]: [Resurrect Announcement] karol_s16 was resurrected by Touch Stone.
+[03:06:59]: [Leave Announcement] whoifnotme
+[03:08:58]: [Join Announcement] whoifnotme
+[03:10:08]: [Death Announcement] whoifnotme was killed by Crawling Horror. He became a spooky ghost!
+[03:17:44]: [Resurrect Announcement] whoifnotme was resurrected by ewa.j.bak.
+[03:19:10]: [Death Announcement] karol_s16 was killed by Freezing. He became a spooky ghost!
+[03:19:52]: [Leave Announcement] karol_s16

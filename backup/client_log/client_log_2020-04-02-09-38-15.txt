@@ -1,0 +1,1468 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 83%
+	Available Physical Memory: 1300m/7888m
+	Available Page File: 6108m/17992m
+	Available Virtual Memory: 3959m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 243k
+	Quota Page Pool Usage: 241k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 402187
+[00:00:00]: Current time: Wed Apr 01 20:25:53 2020
+
+[00:00:00]: Don't Starve Together: 402187 WIN32_STEAM
+[00:00:00]: Build Date: 5035
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 4842445
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/158558781/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (14972)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:4.81
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (17896)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: could not load ping_cache
+[00:00:01]: THREAD - started 'StreamInput' (10388)
+[00:00:01]: Offline user ID: OU_76561198118824509
+[00:00:01]: SteamID: 76561198118824509
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.18363
+    architecture              64-bitowy
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2601
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      Intel(R) HD Graphics 4000
+    driverDate                20180816000000.000000-000
+    megsOfRam                 2112
+    refreshRate               59
+    videoModeDescription      1366 x 768 x 4294967296 kolorów
+    driverVersion             10.18.10.5059
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1366,768 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 16 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:01]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:01]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:01]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:02]: WindowManager::SetFullscreen(0, 1366, 768, 60)
+[00:00:02]: GLInfo
+[00:00:02]: ~~~~~~
+[00:00:02]: GL_VENDOR: Google Inc.
+[00:00:02]: GL_RENDERER: ANGLE (Intel(R) HD Graphics 4000)
+[00:00:02]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:02]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:02]: THREAD - started 'WindowsInputManager' (10780)
+[00:00:02]: OpenGL extensions (19, 19):
+[00:00:02]: GL_ANGLE_depth_texture
+[00:00:02]: GL_ANGLE_framebuffer_blit
+[00:00:02]: GL_ANGLE_framebuffer_multisample
+[00:00:02]: GL_ANGLE_instanced_arrays
+[00:00:02]: GL_ANGLE_pack_reverse_row_order
+[00:00:02]: GL_ANGLE_texture_compression_dxt3
+[00:00:02]: GL_ANGLE_texture_compression_dxt5
+[00:00:02]: GL_ANGLE_texture_usage
+[00:00:02]: GL_ANGLE_translated_shader_source
+[00:00:02]: GL_EXT_read_format_bgra
+[00:00:02]: GL_EXT_robustness
+[00:00:02]: GL_EXT_texture_compression_dxt1
+[00:00:02]: GL_EXT_texture_format_BGRA8888
+[00:00:02]: GL_EXT_texture_storage
+[00:00:02]: GL_OES_get_program_binary
+[00:00:02]: GL_OES_packed_depth_stencil
+[00:00:02]: GL_OES_rgb8_rgba8
+[00:00:02]: GL_OES_standard_derivatives
+[00:00:02]: GL_OES_texture_npot
+[00:00:02]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:02]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:02]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:02]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:02]: GL_MAX_VARYING_VECTORS = 10
+[00:00:02]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:02]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:02]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:02]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:02]: 4 compressed texture formats
+[00:00:02]: texture format 0x83f0
+[00:00:02]: texture format 0x83f1
+[00:00:02]: texture format 0x83f2
+[00:00:02]: texture format 0x83f3
+[00:00:03]: Renderer initialize: Okay
+[00:00:04]: AnimManager initialize: Okay
+[00:00:04]: Buffers initialize: Okay
+[00:00:05]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:05]: GameSpecific initialize: Okay
+[00:00:05]: cGame::StartPlaying
+[00:00:05]: LOADING LUA
+[00:00:05]: DoLuaFile scripts/main.lua
+[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: running main.lua
+	
+[00:00:06]: loaded modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence.
+	
+[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: PlayerDeaths loaded morgue	3337	
+[00:00:10]: PlayerHistory loaded player_history (v2) len:800	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:12]: 	Load FE	
+[00:00:14]: 	Load FE: done	
+[00:00:14]: THREAD - started 'FilesExistAsyncThread' (12232)
+[00:00:14]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/blocklist.txt (Failure)
+[00:00:14]: FilesExistAsyncThread started (14942 files)...
+[00:00:14]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/adminlist.txt (Failure)
+[00:00:14]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/158558781/client_save/whitelist.txt (Failure)
+[00:00:14]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=PL&lang=polish&user=76561198118824509	
+[00:00:14]: SimLuaProxy::QueryServer()
+[00:00:14]: Check for write access: TRUE
+[00:00:14]: Check for read access: TRUE
+[00:00:14]: ModIndex: Load sequence finished successfully.	
+[00:00:14]: Reset() returning
+[00:00:16]: [MOTD] Downloading image for box1
+[00:00:18]: [MOTD] Downloading image for box3
+[00:00:19]: [MOTD] Downloading image for box4
+[00:00:19]: [MOTD] Done Loading.	
+[00:00:42]: ... FilesExistAsyncThread complete
+[00:05:19]: [Steam] Auth Session Ticket requested...
+[00:05:19]: [Steam] Got Auth Session Ticket
+[00:05:20]: [200] Account Communication Success (3)
+[00:05:20]: Logging in as KU_qaTCHhq7
+[00:05:22]: saved APP:Klei//DoNotStarveTogether/158558781/client_save/pricing_cache
+[00:05:22]: There is no active event to get the status of.
+[00:05:22]: loaded inventory_cache_prod
+[00:05:23]: saved APP:Klei//DoNotStarveTogether/158558781/client_save/inventory_cache_prod
+[00:05:23]: saved APP:Klei//DoNotStarveTogether/158558781/client_save/inventory_cache_prod_sig
+[00:05:54]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_qaTCHhq7","Modified":1585765907.851568,"ItemID":501244341040033199}
+
+[00:06:27]: Getting top mod details...
+[00:06:27]: Frontend-Unloading mod 'all'.	
+[00:06:27]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:06:27]: FrontendLoadMod	workshop-375859599	
+[00:06:27]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:06:27]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:06:27]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:06:27]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:27]: FrontendLoadMod	workshop-632082897	
+[00:06:27]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:06:27]: Fontend-Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:06:27]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:06:27]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:06:29]: GOT top mod details...50
+[00:06:31]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:06:31]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:06:31]: Best lobby region is aws/EU (ping 31)
+[00:06:31]: [IPC] Signal 'DST_Master_Starting' created  #00000A38
+[00:06:31]: [IPC] Clearing pending signals #00000A38...
+[00:06:31]: [IPC] Registering handler for signal #00000A38
+[00:06:31]: [IPC] Handle #00000A38 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Master_WorldGen' created  #00000A3C
+[00:06:31]: [IPC] Clearing pending signals #00000A3C...
+[00:06:31]: [IPC] Registering handler for signal #00000A3C
+[00:06:31]: [IPC] Handle #00000A3C added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Master_Ready' created  #00000A0C
+[00:06:31]: [IPC] Clearing pending signals #00000A0C...
+[00:06:31]: [IPC] Registering handler for signal #00000A0C
+[00:06:31]: [IPC] Handle #00000A0C added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Master_ErrPort' created  #00000960
+[00:06:31]: [IPC] Clearing pending signals #00000960...
+[00:06:31]: [IPC] Registering handler for signal #00000960
+[00:06:31]: [IPC] Handle #00000960 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000A28
+[00:06:31]: [IPC] Clearing pending signals #00000A28...
+[00:06:31]: [IPC] Registering handler for signal #00000A28
+[00:06:31]: [IPC] Handle #00000A28 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Master_Kill' created  #00000A58
+[00:06:31]: [IPC] Clearing pending signals #00000A58...
+[00:06:31]: [IPC] Signal 'DST_Slave_Starting' created  #00000A5C
+[00:06:31]: [IPC] Clearing pending signals #00000A5C...
+[00:06:31]: [IPC] Registering handler for signal #00000A5C
+[00:06:31]: [IPC] Handle #00000A5C added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Slave_WorldGen' created  #00000A30
+[00:06:31]: [IPC] Clearing pending signals #00000A30...
+[00:06:31]: [IPC] Registering handler for signal #00000A30
+[00:06:31]: [IPC] Handle #00000A30 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Slave_Ready' created  #00000A08
+[00:06:31]: [IPC] Clearing pending signals #00000A08...
+[00:06:31]: [IPC] Registering handler for signal #00000A08
+[00:06:31]: [IPC] Handle #00000A08 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Slave_ErrPort' created  #00000A34
+[00:06:31]: [IPC] Clearing pending signals #00000A34...
+[00:06:31]: [IPC] Registering handler for signal #00000A34
+[00:06:31]: [IPC] Handle #00000A34 added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Slave_ErrStartup' created  #00000A6C
+[00:06:31]: [IPC] Clearing pending signals #00000A6C...
+[00:06:31]: [IPC] Registering handler for signal #00000A6C
+[00:06:31]: [IPC] Handle #00000A6C added to the Eventhandles
+[00:06:31]: [IPC] Signal 'DST_Slave_Kill' created  #00000A70
+[00:06:31]: [IPC] Clearing pending signals #00000A70...
+[00:06:46]: [IPC] Received DST_Slave Starting signal !
+[00:06:47]: [IPC] Received DST_Master Starting signal !
+[00:07:33]: [IPC] Received DST_Master Ready signal !
+[00:07:39]: [IPC] Received DST_Slave Ready signal !
+[00:07:39]: [Connect] Init client connection to 127.0.0.1|10999
+[00:07:39]: [Connect] PendingConnection::Reset(true)
+[00:07:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:39]: [Connect] InternalInitClient <2890869658378783688>
+[00:07:39]: [Shard] Starting shard mode as player
+[00:07:39]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:07:39]: [Connect] Sending ping(s)...
+[00:07:39]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:07:39]: [Connect] Ping response from 127.0.0.1|10999
+[00:07:39]: [Connect] Joining server from ping response...
+[00:07:39]: Friends are currently playing in 0 games(s)!
+[00:07:39]: You belong to 2 clan(s)!
+[00:07:39]: [Connect] Got join server response from lua
+[00:07:40]: [200] Account Communication Success (13)
+[00:07:40]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:07:40]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:07:40]: Connection accepted to 127.0.0.1|10999 <7796038402620920836>
+[00:07:40]: Network external address discovered: 127.0.0.1|58909
+[00:07:40]: SendClientHandShakePacket to <7796038402620920836>
+[00:07:40]: DeserializeHandShakeServerListing
+[00:07:40]: Network tick rate: U=10(3), D=15
+[00:07:40]: Platform: 1
+[00:07:40]: Version: 402187
+[00:07:40]: [Steam] Game Connection initiated
+[00:07:40]: SendClientInventoryHandShakePacket to <7796038402620920836>
+[00:07:40]: Exceeded maximum serializable vanity size; truncating 3 to 2.
+[00:07:41]: Begin Session: 5673286FA736B4FF
+[00:07:41]: Done Downloading Client Object Data
+[00:07:41]: DownloadMods and temp disable	
+[00:07:41]: We now have the required mods, enable them for server	
+[00:07:41]: Temp Enabling workshop-632082897	
+[00:07:41]: Temp Enabling workshop-375859599	
+[00:07:41]: ModIndex:SetTempModConfigData	
+[00:07:41]: Setting temp mod config for mod 	workshop-632082897	
+[00:07:41]: Setting temp mod config for mod 	workshop-375859599	
+[00:07:41]: Mods are setup for server, save the mod index and proceed.	
+[00:07:41]: Downloading [0] From: server_temp
+[00:07:41]: 0 (32%) 1/1 server_temp\server_save 114000b / 353027b
+[00:07:41]: 0 (64%) 1/1 server_temp\server_save 228000b / 353027b
+[00:07:41]: 0 (96%) 1/1 server_temp\server_save 342000b / 353027b
+[00:07:41]: 0 (100%) 1/1 server_temp\server_save 353027b / 353027b
+[00:07:41]: Download complete[0] Files: 1 Size: 353027
+[00:07:42]: Collecting garbage...
+[00:07:42]: lua_gc took 0.03 seconds
+[00:07:42]: ~ShardLuaProxy()
+[00:07:42]: ~cEventLeaderboardProxy()
+[00:07:42]: ~ItemServerLuaProxy()
+[00:07:42]: ~InventoryLuaProxy()
+[00:07:42]: ~NetworkLuaProxy()
+[00:07:42]: ~SimLuaProxy()
+[00:07:42]: Cancelling LuaQueryCallback handle [11]
+[00:07:42]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:42]: lua_close took 0.07 seconds
+[00:07:42]: ReleaseAll
+[00:07:42]: ReleaseAll Finished
+[00:07:42]: cGame::StartPlaying
+[00:07:42]: LOADING LUA
+[00:07:42]: DoLuaFile scripts/main.lua
+[00:07:42]: DoLuaFile loading buffer scripts/main.lua
+[00:07:42]:   taskgrouplist:	default	Together	
+[00:07:42]:   taskgrouplist:	classic	Classic	
+[00:07:42]:   taskgrouplist:	cave_default	Underground	
+[00:07:42]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:07:42]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:07:42]: running main.lua
+	
+[00:07:42]: loaded modindex	
+[00:07:42]: ModIndex: Beginning normal load sequence.
+	
+[00:07:42]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:07:42]: ModIndex:GetModsToLoad inserting moddir, 	workshop-632082897	
+[00:07:42]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:07:42]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:07:42]: Could not load mod_config_data/modconfiguration_workshop-632082897_CLIENT	
+[00:07:42]: Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:07:42]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:07:42]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:42]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:07:42]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:07:42]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:07:42]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:42]: Mod: workshop-632082897 (Global Player Icons)	Loading modmain.lua	
+[00:07:43]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:07:43]: LOADING LUA SUCCESS
+[00:07:43]: PlayerDeaths loaded morgue	3337	
+[00:07:43]: PlayerHistory loaded player_history (v2) len:800	
+[00:07:43]: ServerPreferences could not load server_preferences	
+[00:07:43]: bloom_enabled	false	
+[00:07:43]: loaded saveindex	
+[00:07:43]: OnFilesLoaded()	
+[00:07:43]: OnUpdatePurchaseStateComplete	
+[00:07:43]: Loading world: client_temp/server_save	
+[00:07:43]: Save file is at version 5.031	
+[00:07:43]: Klump load on boot started.	
+[00:07:43]: Klump files loaded: 	0	
+[00:07:43]: 	Unload FE	
+[00:07:43]: 	Unload FE done	
+[00:07:45]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:07:45]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	Registering prefabs	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon_network	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	    globalicon_network	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	    globalicon	
+[00:07:45]: Mod: workshop-632082897 (Global Player Icons)	  Registering default mod prefab	
+[00:07:45]: 	LOAD BE	
+[00:07:53]: 	LOAD BE: done	
+[00:07:53]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:07:53]: Loading 16 new character(s)	
+[00:07:54]: Total 16 character(s) loaded	
+[00:07:56]: Loading Nav Grid	
+[00:07:56]: World generated on version 401750, using seed: 1585506795	
+[00:07:56]: setting 	summerlength	10	
+[00:07:56]: setting 	isnightmaredawn	false	
+[00:07:56]: setting 	elapseddaysinseason	7	
+[00:07:56]: setting 	isfullmoon	false	
+[00:07:56]: setting 	moisture	3839.359375	
+[00:07:56]: setting 	springlength	20	
+[00:07:56]: setting 	isnightmarewild	false	
+[00:07:56]: setting 	moonphase	threequarter	
+[00:07:56]: setting 	precipitationrate	0	
+[00:07:56]: setting 	iswet	false	
+[00:07:56]: setting 	isnewmoon	false	
+[00:07:56]: setting 	iswinter	false	
+[00:07:56]: setting 	israining	false	
+[00:07:56]: setting 	issummer	false	
+[00:07:56]: setting 	time	0.16125583648682	
+[00:07:56]: setting 	wetness	0	
+[00:07:56]: setting 	moistureceil	5553.4506835938	
+[00:07:56]: setting 	isday	true	
+[00:07:56]: setting 	nightmaretimeinphase	0	
+[00:07:56]: setting 	season	autumn	
+[00:07:56]: setting 	isnight	false	
+[00:07:56]: setting 	cycles	67	
+[00:07:56]: setting 	isnightmarecalm	false	
+[00:07:56]: setting 	timeinphase	0.32251167297363	
+[00:07:56]: setting 	isdusk	false	
+[00:07:56]: setting 	iscavedusk	false	
+[00:07:56]: setting 	isautumn	true	
+[00:07:56]: setting 	iscaveday	true	
+[00:07:56]: setting 	remainingdaysinseason	13	
+[00:07:56]: setting 	phase	day	
+[00:07:56]: setting 	snowlevel	0	
+[00:07:56]: setting 	iswaxingmoon	true	
+[00:07:56]: setting 	autumnlength	20	
+[00:07:56]: setting 	pop	0.53369134336784	
+[00:07:56]: setting 	nightmaretime	0	
+[00:07:56]: setting 	isspring	false	
+[00:07:56]: setting 	winterlength	10	
+[00:07:56]: setting 	nightmarephase	none	
+[00:07:56]: setting 	issnowcovered	false	
+[00:07:56]: setting 	issnowing	false	
+[00:07:56]: setting 	iscavenight	false	
+[00:07:56]: setting 	temperature	42.794895174377	
+[00:07:56]: setting 	cavephase	day	
+[00:07:56]: setting 	precipitation	none	
+[00:07:56]: setting 	isnightmarewarn	false	
+[00:07:56]: OVERRIDE: setting	bearger	to	never	
+[00:07:56]: OVERRIDE: setting	flowers	to	always	
+[00:07:56]: OVERRIDE: setting	dragonfly	to	never	
+[00:07:56]: OVERRIDE: setting	deerclops	to	never	
+[00:07:56]: OVERRIDE: setting	goosemoose	to	never	
+[00:07:56]: OVERRIDE: setting	antliontribute	to	never	
+[00:07:56]: Reconstructing topology	
+[00:07:56]: 	...Sorting points	
+[00:07:56]: 	...Sorting edges	
+[00:07:56]: 	...Connecting nodes	
+[00:07:56]: 	...Validating connections	
+[00:07:56]: 	...Housekeeping	
+[00:07:56]: 	...Done!	
+[00:07:56]: Check for write access: TRUE
+[00:07:56]: Check for read access: TRUE
+[00:07:56]: ModIndex: Load sequence finished successfully.	
+[00:07:56]: Reset() returning
+[00:07:59]: Attempting to send resume request
+[00:07:59]: ReceiveResumeNotification
+[00:08:00]: Could not find anim build FROMNUM
+[00:08:00]: Could not find anim build FROMNUM
+[00:08:00]: Could not find anim build FROMNUM
+[00:08:00]: Movement prediction enabled	
+[00:08:00]: Deserializing tile data (425 x 425)
+[00:08:00]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:08:06]: DoRestart:	true	
+[00:08:07]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:08:07]: [Steam] Game Connection terminated (2130706433|10999)
+[00:08:07]: [Shard] Stopping shard mode
+[00:08:07]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:08:07]: [IPC] Sending signal... #00000A58
+[00:08:10]: [IPC] Unregistering handler for signal #00000A38
+[00:08:10]: [IPC] Unregistering handler for signal #00000A3C
+[00:08:10]: [IPC] Unregistering handler for signal #00000A0C
+[00:08:10]: [IPC] Unregistering handler for signal #00000960
+[00:08:10]: [IPC] Unregistering handler for signal #00000A28
+[00:08:10]: [IPC] Sending signal... #00000A70
+[00:08:12]: [IPC] Unregistering handler for signal #00000A5C
+[00:08:12]: [IPC] Unregistering handler for signal #00000A30
+[00:08:12]: [IPC] Unregistering handler for signal #00000A08
+[00:08:12]: [IPC] Unregistering handler for signal #00000A34
+[00:08:12]: [IPC] Unregistering handler for signal #00000A6C
+[00:08:12]: Collecting garbage...
+[00:08:12]: lua_gc took 0.04 seconds
+[00:08:12]: ~ShardLuaProxy()
+[00:08:12]: ~cEventLeaderboardProxy()
+[00:08:12]: ~ItemServerLuaProxy()
+[00:08:12]: ~InventoryLuaProxy()
+[00:08:12]: ~NetworkLuaProxy()
+[00:08:12]: ~SimLuaProxy()
+[00:08:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:08:12]: lua_close took 0.13 seconds
+[00:08:12]: ReleaseAll
+[00:08:12]: ReleaseAll Finished
+[00:08:12]: cGame::StartPlaying
+[00:08:12]: LOADING LUA
+[00:08:12]: DoLuaFile scripts/main.lua
+[00:08:12]: DoLuaFile loading buffer scripts/main.lua
+[00:08:12]:   taskgrouplist:	default	Together	
+[00:08:12]:   taskgrouplist:	classic	Classic	
+[00:08:12]:   taskgrouplist:	cave_default	Underground	
+[00:08:12]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:08:12]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:08:12]: running main.lua
+	
+[00:08:12]: unloading prefabs for mod MOD_workshop-375859599	
+[00:08:12]: unloading prefabs for mod MOD_workshop-632082897	
+[00:08:12]: loaded modindex	
+[00:08:12]: ModIndex: Beginning normal load sequence.
+	
+[00:08:13]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:08:13]: LOADING LUA SUCCESS
+[00:08:13]: PlayerDeaths loaded morgue	3337	
+[00:08:13]: PlayerHistory loaded player_history (v2) len:800	
+[00:08:13]: ServerPreferences could not load server_preferences	
+[00:08:13]: bloom_enabled	false	
+[00:08:13]: loaded saveindex	
+[00:08:13]: OnFilesLoaded()	
+[00:08:13]: OnUpdatePurchaseStateComplete	
+[00:08:13]: Klump load on boot started.	
+[00:08:13]: Klump files loaded: 	0	
+[00:08:13]: 	Unload characters	
+[00:08:13]: 	Unload BE	
+[00:08:13]: 	Unload BE done	
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (splash_ocean)
+[00:08:13]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:08:13]: Could not unload undefined prefab (ocean_splash_med1)
+[00:08:13]: Could not unload undefined prefab (splash_ocean)
+[00:08:14]: 	Load FE	
+[00:08:15]: 	Load FE: done	
+[00:08:15]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/blocklist.txt (Failure)
+[00:08:15]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/adminlist.txt (Failure)
+[00:08:15]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/158558781/client_save/whitelist.txt (Failure)
+[00:08:15]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=PL&lang=polish&user=76561198118824509	
+[00:08:15]: SimLuaProxy::QueryServer()
+[00:08:15]: Check for write access: TRUE
+[00:08:15]: Check for read access: TRUE
+[00:08:15]: ModIndex: Load sequence finished successfully.	
+[00:08:15]: Reset() returning
+[00:08:17]: [MOTD] Done Loading.	
+[00:08:18]: [200] Account Communication Success (6)
+[00:08:18]: Received (KU_qaTCHhq7) from TokenPurpose
+[00:08:18]: [Steam] Auth Session Ticket requested...
+[00:08:18]: [Steam] Got Auth Session Ticket
+[00:08:18]: There is no active event to get the status of.
+[00:08:19]: loaded inventory_cache_prod
+[00:08:19]: saved APP:Klei//DoNotStarveTogether/158558781/client_save/inventory_cache_prod
+[00:08:19]: saved APP:Klei//DoNotStarveTogether/158558781/client_save/inventory_cache_prod_sig
+[00:08:23]: Getting top mod details...
+[00:08:23]: Frontend-Unloading mod 'all'.	
+[00:08:23]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:08:23]: FrontendLoadMod	workshop-375859599	
+[00:08:23]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:08:23]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:08:23]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:08:23]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:08:23]: FrontendLoadMod	workshop-632082897	
+[00:08:23]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:08:23]: Fontend-Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:08:23]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:08:23]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:08:25]: GOT top mod details...50
+[00:08:28]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:08:28]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:08:28]: [IPC] Clearing pending signals #00000A38...
+[00:08:28]: [IPC] Registering handler for signal #00000A38
+[00:08:28]: [IPC] Handle #00000A38 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A3C...
+[00:08:28]: [IPC] Registering handler for signal #00000A3C
+[00:08:28]: [IPC] Handle #00000A3C added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A0C...
+[00:08:28]: [IPC] Registering handler for signal #00000A0C
+[00:08:28]: [IPC] Handle #00000A0C added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000960...
+[00:08:28]: [IPC] Registering handler for signal #00000960
+[00:08:28]: [IPC] Handle #00000960 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A28...
+[00:08:28]: [IPC] Registering handler for signal #00000A28
+[00:08:28]: [IPC] Handle #00000A28 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A58...
+[00:08:28]: [IPC] Clearing pending signals #00000A5C...
+[00:08:28]: [IPC] Registering handler for signal #00000A5C
+[00:08:28]: [IPC] Handle #00000A5C added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A30...
+[00:08:28]: [IPC] Registering handler for signal #00000A30
+[00:08:28]: [IPC] Handle #00000A30 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A08...
+[00:08:28]: [IPC] Registering handler for signal #00000A08
+[00:08:28]: [IPC] Handle #00000A08 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A34...
+[00:08:28]: [IPC] Registering handler for signal #00000A34
+[00:08:28]: [IPC] Handle #00000A34 added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A6C...
+[00:08:28]: [IPC] Registering handler for signal #00000A6C
+[00:08:28]: [IPC] Handle #00000A6C added to the Eventhandles
+[00:08:28]: [IPC] Clearing pending signals #00000A70...
+[00:08:35]: [IPC] Received DST_Master Starting signal !
+[00:08:35]: [IPC] Received DST_Slave Starting signal !
+[00:09:11]: [IPC] Received DST_Master Ready signal !
+[00:09:17]: [IPC] Received DST_Slave Ready signal !
+[00:09:17]: [Connect] Init client connection to 127.0.0.1|10999
+[00:09:17]: [Connect] PendingConnection::Reset(true)
+[00:09:17]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:09:17]: [Connect] InternalInitClient <8491021601388448811>
+[00:09:17]: [Shard] Starting shard mode as player
+[00:09:17]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:09:17]: [Connect] Sending ping(s)...
+[00:09:17]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:09:17]: [Connect] Ping response from 127.0.0.1|10999
+[00:09:17]: [Connect] Joining server from ping response...
+[00:09:17]: [Connect] Got join server response from lua
+[00:09:17]: [200] Account Communication Success (13)
+[00:09:17]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:09:17]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:09:17]: Connection accepted to 127.0.0.1|10999 <4839769534301984364>
+[00:09:17]: Network external address discovered: 127.0.0.1|63509
+[00:09:17]: SendClientHandShakePacket to <4839769534301984364>
+[00:09:18]: DeserializeHandShakeServerListing
+[00:09:18]: Network tick rate: U=10(3), D=15
+[00:09:18]: Platform: 1
+[00:09:18]: Version: 402187
+[00:09:18]: [Steam] Game Connection initiated
+[00:09:18]: SendClientInventoryHandShakePacket to <4839769534301984364>
+[00:09:18]: Exceeded maximum serializable vanity size; truncating 3 to 2.
+[00:09:19]: Begin Session: 5673286FA736B4FF
+[00:09:19]: Done Downloading Client Object Data
+[00:09:19]: DownloadMods and temp disable	
+[00:09:19]: We now have the required mods, enable them for server	
+[00:09:19]: Temp Enabling workshop-632082897	
+[00:09:19]: Temp Enabling workshop-375859599	
+[00:09:19]: ModIndex:SetTempModConfigData	
+[00:09:19]: Setting temp mod config for mod 	workshop-632082897	
+[00:09:19]: Setting temp mod config for mod 	workshop-375859599	
+[00:09:19]: Mods are setup for server, save the mod index and proceed.	
+[00:09:19]: Downloading [1] From: server_temp
+[00:09:19]: 1 (32%) 1/1 server_temp\server_save 114000b / 352795b
+[00:09:19]: 1 (64%) 1/1 server_temp\server_save 228000b / 352795b
+[00:09:19]: 1 (96%) 1/1 server_temp\server_save 342000b / 352795b
+[00:09:19]: 1 (100%) 1/1 server_temp\server_save 352795b / 352795b
+[00:09:19]: Download complete[1] Files: 1 Size: 352795
+[00:09:19]: Collecting garbage...
+[00:09:20]: lua_gc took 0.05 seconds
+[00:09:20]: ~ShardLuaProxy()
+[00:09:20]: ~cEventLeaderboardProxy()
+[00:09:20]: ~ItemServerLuaProxy()
+[00:09:20]: ~InventoryLuaProxy()
+[00:09:20]: ~NetworkLuaProxy()
+[00:09:20]: ~SimLuaProxy()
+[00:09:20]: Cancelling LuaQueryCallback handle [21]
+[00:09:20]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:09:20]: lua_close took 0.08 seconds
+[00:09:20]: ReleaseAll
+[00:09:20]: ReleaseAll Finished
+[00:09:20]: cGame::StartPlaying
+[00:09:20]: LOADING LUA
+[00:09:20]: DoLuaFile scripts/main.lua
+[00:09:20]: DoLuaFile loading buffer scripts/main.lua
+[00:09:20]:   taskgrouplist:	default	Together	
+[00:09:20]:   taskgrouplist:	classic	Classic	
+[00:09:20]:   taskgrouplist:	cave_default	Underground	
+[00:09:20]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:09:20]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:09:20]: running main.lua
+	
+[00:09:20]: loaded modindex	
+[00:09:20]: ModIndex: Beginning normal load sequence.
+	
+[00:09:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:09:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-632082897	
+[00:09:20]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:09:20]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:09:20]: Could not load mod_config_data/modconfiguration_workshop-632082897_CLIENT	
+[00:09:20]: Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:09:20]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:09:20]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:09:20]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:09:20]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:09:20]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:09:20]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:09:20]: Mod: workshop-632082897 (Global Player Icons)	Loading modmain.lua	
+[00:09:21]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:09:21]: LOADING LUA SUCCESS
+[00:09:21]: PlayerDeaths loaded morgue	3337	
+[00:09:21]: PlayerHistory loaded player_history (v2) len:800	
+[00:09:21]: ServerPreferences could not load server_preferences	
+[00:09:21]: bloom_enabled	false	
+[00:09:21]: loaded saveindex	
+[00:09:21]: OnFilesLoaded()	
+[00:09:21]: OnUpdatePurchaseStateComplete	
+[00:09:21]: Loading world: client_temp/server_save	
+[00:09:21]: Save file is at version 5.031	
+[00:09:21]: Klump load on boot started.	
+[00:09:21]: Klump files loaded: 	0	
+[00:09:21]: 	Unload FE	
+[00:09:21]: 	Unload FE done	
+[00:09:23]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:09:23]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	Registering prefabs	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon_network	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	    globalicon_network	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	    globalicon	
+[00:09:23]: Mod: workshop-632082897 (Global Player Icons)	  Registering default mod prefab	
+[00:09:23]: 	LOAD BE	
+[00:09:28]: 	LOAD BE: done	
+[00:09:28]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:09:28]: Loading 16 new character(s)	
+[00:09:29]: Total 16 character(s) loaded	
+[00:09:30]: Loading Nav Grid	
+[00:09:30]: World generated on version 401750, using seed: 1585506795	
+[00:09:30]: setting 	summerlength	10	
+[00:09:30]: setting 	isnightmaredawn	false	
+[00:09:30]: setting 	elapseddaysinseason	7	
+[00:09:30]: setting 	isfullmoon	false	
+[00:09:30]: setting 	moisture	3841.9521484375	
+[00:09:30]: setting 	springlength	20	
+[00:09:30]: setting 	isnightmarewild	false	
+[00:09:30]: setting 	moonphase	threequarter	
+[00:09:30]: setting 	precipitationrate	0	
+[00:09:30]: setting 	iswet	false	
+[00:09:30]: setting 	isnewmoon	false	
+[00:09:30]: setting 	iswinter	false	
+[00:09:30]: setting 	israining	false	
+[00:09:30]: setting 	issummer	false	
+[00:09:30]: setting 	time	0.17764822642008	
+[00:09:30]: setting 	wetness	0	
+[00:09:30]: setting 	moistureceil	5553.4506835938	
+[00:09:30]: setting 	isday	true	
+[00:09:30]: setting 	nightmaretimeinphase	0	
+[00:09:30]: setting 	season	autumn	
+[00:09:30]: setting 	isnight	false	
+[00:09:30]: setting 	cycles	67	
+[00:09:30]: setting 	isnightmarecalm	false	
+[00:09:30]: setting 	timeinphase	0.35529645284017	
+[00:09:30]: setting 	isdusk	false	
+[00:09:30]: setting 	iscavedusk	false	
+[00:09:30]: setting 	isautumn	true	
+[00:09:30]: setting 	iscaveday	true	
+[00:09:30]: setting 	remainingdaysinseason	13	
+[00:09:30]: setting 	phase	day	
+[00:09:30]: setting 	snowlevel	0	
+[00:09:30]: setting 	iswaxingmoon	true	
+[00:09:30]: setting 	autumnlength	20	
+[00:09:30]: setting 	pop	0.53439669243095	
+[00:09:30]: setting 	nightmaretime	0	
+[00:09:30]: setting 	isspring	false	
+[00:09:30]: setting 	winterlength	10	
+[00:09:30]: setting 	nightmarephase	none	
+[00:09:30]: setting 	issnowcovered	false	
+[00:09:30]: setting 	issnowing	false	
+[00:09:30]: setting 	iscavenight	false	
+[00:09:30]: setting 	temperature	41.918742457812	
+[00:09:30]: setting 	cavephase	day	
+[00:09:30]: setting 	precipitation	none	
+[00:09:30]: setting 	isnightmarewarn	false	
+[00:09:30]: OVERRIDE: setting	bearger	to	never	
+[00:09:30]: OVERRIDE: setting	deerclops	to	never	
+[00:09:30]: OVERRIDE: setting	flowers	to	always	
+[00:09:30]: OVERRIDE: setting	dragonfly	to	never	
+[00:09:30]: OVERRIDE: setting	antliontribute	to	never	
+[00:09:30]: OVERRIDE: setting	goosemoose	to	never	
+[00:09:30]: Reconstructing topology	
+[00:09:30]: 	...Sorting points	
+[00:09:30]: 	...Sorting edges	
+[00:09:30]: 	...Connecting nodes	
+[00:09:30]: 	...Validating connections	
+[00:09:30]: 	...Housekeeping	
+[00:09:30]: 	...Done!	
+[00:09:30]: Check for write access: TRUE
+[00:09:30]: Check for read access: TRUE
+[00:09:30]: ModIndex: Load sequence finished successfully.	
+[00:09:30]: Reset() returning
+[00:09:33]: Attempting to send resume request
+[00:09:33]: ReceiveResumeNotification
+[00:09:33]: Could not find anim build FROMNUM
+[00:09:33]: Could not find anim build FROMNUM
+[00:09:33]: Could not find anim build FROMNUM
+[00:09:33]: Movement prediction enabled	
+[00:09:33]: Deserializing tile data (425 x 425)
+[00:09:33]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:10:21]: Could not find anim build FROMNUM
+[00:10:21]: Could not find anim build FROMNUM
+[00:10:21]: Could not find anim build FROMNUM
+[00:11:16]: Could not find anim build FROMNUM
+[00:11:16]: Could not find anim build FROMNUM
+[00:11:16]: Could not find anim build FROMNUM
+[00:16:08]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:20:41]: DoRestart:	true	
+[00:20:42]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:20:42]: [Steam] Game Connection terminated (2130706433|10999)
+[00:20:42]: [Shard] Stopping shard mode
+[00:20:42]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:42]: [IPC] Sending signal... #00000A58
+[00:20:45]: [IPC] Unregistering handler for signal #00000A38
+[00:20:45]: [IPC] Unregistering handler for signal #00000A3C
+[00:20:45]: [IPC] Unregistering handler for signal #00000A0C
+[00:20:45]: [IPC] Unregistering handler for signal #00000960
+[00:20:45]: [IPC] Unregistering handler for signal #00000A28
+[00:20:45]: [IPC] Sending signal... #00000A70
+[00:20:47]: [IPC] Unregistering handler for signal #00000A5C
+[00:20:47]: [IPC] Unregistering handler for signal #00000A30
+[00:20:47]: [IPC] Unregistering handler for signal #00000A08
+[00:20:47]: [IPC] Unregistering handler for signal #00000A34
+[00:20:47]: [IPC] Unregistering handler for signal #00000A6C
+[00:20:47]: Collecting garbage...
+[00:20:47]: lua_gc took 0.06 seconds
+[00:20:47]: ~ShardLuaProxy()
+[00:20:47]: ~cEventLeaderboardProxy()
+[00:20:47]: ~ItemServerLuaProxy()
+[00:20:47]: ~InventoryLuaProxy()
+[00:20:47]: ~NetworkLuaProxy()
+[00:20:47]: ~SimLuaProxy()
+[00:20:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:47]: lua_close took 0.07 seconds
+[00:20:47]: ReleaseAll
+[00:20:47]: ReleaseAll Finished
+[00:20:47]: cGame::StartPlaying
+[00:20:47]: LOADING LUA
+[00:20:47]: DoLuaFile scripts/main.lua
+[00:20:47]: DoLuaFile loading buffer scripts/main.lua
+[00:20:48]:   taskgrouplist:	default	Together	
+[00:20:48]:   taskgrouplist:	classic	Classic	
+[00:20:48]:   taskgrouplist:	cave_default	Underground	
+[00:20:48]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:20:48]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:20:48]: running main.lua
+	
+[00:20:48]: unloading prefabs for mod MOD_workshop-375859599	
+[00:20:48]: unloading prefabs for mod MOD_workshop-632082897	
+[00:20:48]: loaded modindex	
+[00:20:48]: ModIndex: Beginning normal load sequence.
+	
+[00:20:48]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:20:48]: LOADING LUA SUCCESS
+[00:20:48]: PlayerDeaths loaded morgue	3337	
+[00:20:48]: PlayerHistory loaded player_history (v2) len:800	
+[00:20:48]: ServerPreferences could not load server_preferences	
+[00:20:48]: bloom_enabled	false	
+[00:20:48]: loaded saveindex	
+[00:20:48]: OnFilesLoaded()	
+[00:20:48]: OnUpdatePurchaseStateComplete	
+[00:20:48]: Klump load on boot started.	
+[00:20:48]: Klump files loaded: 	0	
+[00:20:48]: 	Unload characters	
+[00:20:48]: 	Unload BE	
+[00:20:48]: 	Unload BE done	
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (splash_ocean)
+[00:20:48]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:20:48]: Could not unload undefined prefab (ocean_splash_med1)
+[00:20:48]: Could not unload undefined prefab (splash_ocean)
+[00:20:50]: 	Load FE	
+[00:20:50]: 	Load FE: done	
+[00:20:50]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/blocklist.txt (Failure)
+[00:20:50]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/adminlist.txt (Failure)
+[00:20:50]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/158558781/client_save/whitelist.txt (Failure)
+[00:20:50]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=PL&lang=polish&user=76561198118824509	
+[00:20:50]: SimLuaProxy::QueryServer()
+[00:20:50]: Check for write access: TRUE
+[00:20:50]: Check for read access: TRUE
+[00:20:50]: ModIndex: Load sequence finished successfully.	
+[00:20:50]: Reset() returning
+[00:20:52]: [MOTD] Done Loading.	
+[00:20:56]: [200] Account Communication Success (6)
+[00:20:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[00:20:56]: [Steam] Auth Session Ticket requested...
+[00:20:56]: [Steam] Got Auth Session Ticket
+[00:20:56]: There is no active event to get the status of.
+[00:20:57]: loaded inventory_cache_prod
+[00:20:57]: loaded inventory_cache_prod
+[00:21:01]: Getting top mod details...
+[00:21:01]: Frontend-Unloading mod 'all'.	
+[00:21:01]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:21:01]: FrontendLoadMod	workshop-375859599	
+[00:21:01]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:21:01]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:21:01]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:21:01]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:21:01]: FrontendLoadMod	workshop-632082897	
+[00:21:01]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:21:01]: Fontend-Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:21:01]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:21:01]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:21:02]: GOT top mod details...50
+[00:21:14]: Truncating to snapshot #74...
+[00:21:14]:  - session/5673286FA736B4FF/0000000075
+[00:21:14]:  - session/5673286FA736B4FF/0000000076
+[00:21:14]:  - session/5673286FA736B4FF/A7GFNN56V8K6/0000000076
+[00:21:14]:  - session/5673286FA736B4FF/A7GFNN56V8K6/0000000075
+[00:21:14]:  - session/5673286FA736B4FF/A7IH3S24M5NF/0000000076
+[00:21:14]:  - session/5673286FA736B4FF/A7IH3S24M5NF/0000000075
+[00:21:14]:  - session/5673286FA736B4FF/A7MI8T64DF87/0000000076
+[00:21:14]:  - session/5673286FA736B4FF/A7MI8T64DF87/0000000075
+[00:21:14]:    8 file(s) removed
+[00:21:16]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:21:16]: Could not load mod_config_data/modconfiguration_workshop-632082897	
+[00:21:16]: [IPC] Clearing pending signals #00000A38...
+[00:21:16]: [IPC] Registering handler for signal #00000A38
+[00:21:16]: [IPC] Handle #00000A38 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A3C...
+[00:21:16]: [IPC] Registering handler for signal #00000A3C
+[00:21:16]: [IPC] Handle #00000A3C added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A0C...
+[00:21:16]: [IPC] Registering handler for signal #00000A0C
+[00:21:16]: [IPC] Handle #00000A0C added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000960...
+[00:21:16]: [IPC] Registering handler for signal #00000960
+[00:21:16]: [IPC] Handle #00000960 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A28...
+[00:21:16]: [IPC] Registering handler for signal #00000A28
+[00:21:16]: [IPC] Handle #00000A28 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A58...
+[00:21:16]: [IPC] Clearing pending signals #00000A5C...
+[00:21:16]: [IPC] Registering handler for signal #00000A5C
+[00:21:16]: [IPC] Handle #00000A5C added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A30...
+[00:21:16]: [IPC] Registering handler for signal #00000A30
+[00:21:16]: [IPC] Handle #00000A30 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A08...
+[00:21:16]: [IPC] Registering handler for signal #00000A08
+[00:21:16]: [IPC] Handle #00000A08 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A34...
+[00:21:16]: [IPC] Registering handler for signal #00000A34
+[00:21:16]: [IPC] Handle #00000A34 added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A6C...
+[00:21:16]: [IPC] Registering handler for signal #00000A6C
+[00:21:16]: [IPC] Handle #00000A6C added to the Eventhandles
+[00:21:16]: [IPC] Clearing pending signals #00000A70...
+[00:21:24]: [IPC] Received DST_Slave Starting signal !
+[00:21:24]: [IPC] Received DST_Master Starting signal !
+[00:21:57]: [IPC] Received DST_Master Ready signal !
+[00:22:26]: [IPC] Received DST_Slave Ready signal !
+[00:22:26]: [Connect] Init client connection to 127.0.0.1|10999
+[00:22:26]: [Connect] PendingConnection::Reset(true)
+[00:22:26]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:22:26]: [Connect] InternalInitClient <3335244474939451885>
+[00:22:26]: [Shard] Starting shard mode as player
+[00:22:26]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:22:26]: [Connect] Sending ping(s)...
+[00:22:26]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:22:26]: [Connect] Ping response from 127.0.0.1|10999
+[00:22:26]: [Connect] Joining server from ping response...
+[00:22:26]: [Connect] Got join server response from lua
+[00:22:27]: [200] Account Communication Success (13)
+[00:22:27]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:22:27]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:22:27]: Connection accepted to 127.0.0.1|10999 <2677730481424893524>
+[00:22:27]: Network external address discovered: 127.0.0.1|49658
+[00:22:27]: SendClientHandShakePacket to <2677730481424893524>
+[00:22:28]: DeserializeHandShakeServerListing
+[00:22:28]: Network tick rate: U=10(3), D=15
+[00:22:28]: Platform: 1
+[00:22:28]: Version: 402187
+[00:22:28]: [Steam] Game Connection initiated
+[00:22:28]: SendClientInventoryHandShakePacket to <2677730481424893524>
+[00:22:28]: Exceeded maximum serializable vanity size; truncating 3 to 2.
+[00:22:29]: Begin Session: 5673286FA736B4FF
+[00:22:29]: Done Downloading Client Object Data
+[00:22:29]: DownloadMods and temp disable	
+[00:22:29]: We now have the required mods, enable them for server	
+[00:22:29]: Temp Enabling workshop-632082897	
+[00:22:29]: Temp Enabling workshop-375859599	
+[00:22:29]: ModIndex:SetTempModConfigData	
+[00:22:29]: Setting temp mod config for mod 	workshop-632082897	
+[00:22:29]: Setting temp mod config for mod 	workshop-375859599	
+[00:22:29]: Mods are setup for server, save the mod index and proceed.	
+[00:22:29]: Downloading [2] From: server_temp
+[00:22:29]: Download complete[2] Files: 7340143 Size: 3473463
+[00:22:29]: Collecting garbage...
+[00:22:29]: lua_gc took 0.04 seconds
+[00:22:29]: ~ShardLuaProxy()
+[00:22:29]: ~cEventLeaderboardProxy()
+[00:22:29]: ~ItemServerLuaProxy()
+[00:22:29]: ~InventoryLuaProxy()
+[00:22:29]: ~NetworkLuaProxy()
+[00:22:29]: ~SimLuaProxy()
+[00:22:29]: Cancelling LuaQueryCallback handle [31]
+[00:22:29]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:22:29]: lua_close took 0.07 seconds
+[00:22:29]: ReleaseAll
+[00:22:29]: ReleaseAll Finished
+[00:22:29]: cGame::StartPlaying
+[00:22:29]: LOADING LUA
+[00:22:29]: DoLuaFile scripts/main.lua
+[00:22:29]: DoLuaFile loading buffer scripts/main.lua
+[00:22:30]:   taskgrouplist:	default	Together	
+[00:22:30]:   taskgrouplist:	classic	Classic	
+[00:22:30]:   taskgrouplist:	cave_default	Underground	
+[00:22:30]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:22:30]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:22:30]: running main.lua
+	
+[00:22:30]: loaded modindex	
+[00:22:30]: ModIndex: Beginning normal load sequence.
+	
+[00:22:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:22:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-632082897	
+[00:22:30]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:22:30]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:22:30]: Could not load mod_config_data/modconfiguration_workshop-632082897_CLIENT	
+[00:22:30]: Loading mod: workshop-632082897 (Global Player Icons) Version:1.14	
+[00:22:30]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:22:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:22:30]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:22:30]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:22:30]: Mod: workshop-632082897 (Global Player Icons)	Loading modworldgenmain.lua	
+[00:22:30]: Mod: workshop-632082897 (Global Player Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:22:30]: Mod: workshop-632082897 (Global Player Icons)	Loading modmain.lua	
+[00:22:30]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:22:30]: LOADING LUA SUCCESS
+[00:22:30]: PlayerDeaths loaded morgue	3337	
+[00:22:30]: PlayerHistory loaded player_history (v2) len:800	
+[00:22:30]: ServerPreferences could not load server_preferences	
+[00:22:30]: bloom_enabled	false	
+[00:22:30]: loaded saveindex	
+[00:22:30]: OnFilesLoaded()	
+[00:22:30]: OnUpdatePurchaseStateComplete	
+[00:22:30]: Loading world: client_temp/server_save	
+[00:22:30]: Save file is at version 5.031	
+[00:22:30]: Klump load on boot started.	
+[00:22:30]: Klump files loaded: 	0	
+[00:22:31]: 	Unload FE	
+[00:22:31]: 	Unload FE done	
+[00:22:32]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:22:32]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	Registering prefabs	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon_network	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	    globalicon_network	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	  Registering prefab file: prefabs/globalicon	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	    globalicon	
+[00:22:32]: Mod: workshop-632082897 (Global Player Icons)	  Registering default mod prefab	
+[00:22:32]: 	LOAD BE	
+[00:22:37]: 	LOAD BE: done	
+[00:22:37]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:22:37]: Loading 16 new character(s)	
+[00:22:38]: Total 16 character(s) loaded	
+[00:22:39]: Loading Nav Grid	
+[00:22:39]: World generated on version 401750, using seed: 1585506795	
+[00:22:39]: setting 	summerlength	10	
+[00:22:39]: setting 	isnightmaredawn	false	
+[00:22:39]: setting 	elapseddaysinseason	7	
+[00:22:39]: setting 	isfullmoon	false	
+[00:22:39]: setting 	moisture	3841.9521484375	
+[00:22:39]: setting 	springlength	20	
+[00:22:39]: setting 	isnightmarewild	false	
+[00:22:39]: setting 	moonphase	threequarter	
+[00:22:39]: setting 	precipitationrate	0	
+[00:22:39]: setting 	iswet	false	
+[00:22:39]: setting 	isnewmoon	false	
+[00:22:39]: setting 	iswinter	false	
+[00:22:39]: setting 	israining	false	
+[00:22:39]: setting 	issummer	false	
+[00:22:39]: setting 	time	0.17764822642008	
+[00:22:39]: setting 	wetness	0	
+[00:22:39]: setting 	moistureceil	5553.4506835938	
+[00:22:39]: setting 	isday	true	
+[00:22:39]: setting 	nightmaretimeinphase	0	
+[00:22:39]: setting 	season	autumn	
+[00:22:39]: setting 	isnight	false	
+[00:22:39]: setting 	cycles	67	
+[00:22:39]: setting 	isnightmarecalm	false	
+[00:22:39]: setting 	timeinphase	0.35529645284017	
+[00:22:39]: setting 	isdusk	false	
+[00:22:39]: setting 	iscavedusk	false	
+[00:22:39]: setting 	isautumn	true	
+[00:22:39]: setting 	iscaveday	true	
+[00:22:39]: setting 	remainingdaysinseason	13	
+[00:22:39]: setting 	phase	day	
+[00:22:39]: setting 	snowlevel	0	
+[00:22:39]: setting 	iswaxingmoon	true	
+[00:22:39]: setting 	autumnlength	20	
+[00:22:39]: setting 	pop	0.53439669243095	
+[00:22:39]: setting 	nightmaretime	0	
+[00:22:39]: setting 	isspring	false	
+[00:22:39]: setting 	winterlength	10	
+[00:22:39]: setting 	nightmarephase	none	
+[00:22:39]: setting 	issnowcovered	false	
+[00:22:39]: setting 	issnowing	false	
+[00:22:39]: setting 	iscavenight	false	
+[00:22:39]: setting 	temperature	41.918742457812	
+[00:22:39]: setting 	cavephase	day	
+[00:22:39]: setting 	precipitation	none	
+[00:22:39]: setting 	isnightmarewarn	false	
+[00:22:39]: OVERRIDE: setting	bearger	to	never	
+[00:22:39]: OVERRIDE: setting	deerclops	to	never	
+[00:22:39]: OVERRIDE: setting	flowers	to	always	
+[00:22:39]: OVERRIDE: setting	dragonfly	to	never	
+[00:22:39]: OVERRIDE: setting	antliontribute	to	never	
+[00:22:39]: OVERRIDE: setting	goosemoose	to	never	
+[00:22:39]: Reconstructing topology	
+[00:22:39]: 	...Sorting points	
+[00:22:39]: 	...Sorting edges	
+[00:22:39]: 	...Connecting nodes	
+[00:22:39]: 	...Validating connections	
+[00:22:40]: 	...Housekeeping	
+[00:22:40]: 	...Done!	
+[00:22:40]: Check for write access: TRUE
+[00:22:40]: Check for read access: TRUE
+[00:22:40]: ModIndex: Load sequence finished successfully.	
+[00:22:40]: Reset() returning
+[00:22:42]: Attempting to send resume request
+[00:22:42]: ReceiveResumeNotification
+[00:22:42]: Could not find anim build FROMNUM
+[00:22:42]: Could not find anim build FROMNUM
+[00:22:42]: Could not find anim build FROMNUM
+[00:22:42]: Movement prediction enabled	
+[00:22:42]: Deserializing tile data (425 x 425)
+[00:22:42]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:23:08]: Could not find anim build FROMNUM
+[00:23:08]: Could not find anim build FROMNUM
+[00:23:08]: Could not find anim build FROMNUM
+[00:23:42]: Could not find anim build FROMNUM
+[00:23:42]: Could not find anim build FROMNUM
+[00:23:42]: Could not find anim build FROMNUM
+[00:29:17]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:35:31]: Could not find anim build FROMNUM
+[00:35:31]: Could not find anim build FROMNUM
+[00:35:31]: Could not find anim build FROMNUM
+[00:35:37]: Could not find anim build FROMNUM
+[00:35:37]: Could not find anim build FROMNUM
+[00:35:37]: Could not find anim build FROMNUM
+[00:35:57]: Could not find anim build FROMNUM
+[00:35:57]: Could not find anim build FROMNUM
+[00:35:57]: Could not find anim build FROMNUM
+[00:37:19]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:38:54]: Could not find anim build FROMNUM
+[00:38:54]: Could not find anim build FROMNUM
+[00:38:54]: Could not find anim build FROMNUM
+[00:38:55]: Could not find anim build FROMNUM
+[00:38:55]: Could not find anim build FROMNUM
+[00:38:55]: Could not find anim build FROMNUM
+[00:41:25]: Could not find anim build FROMNUM
+[00:41:25]: Could not find anim build FROMNUM
+[00:41:25]: Could not find anim build FROMNUM
+[00:41:50]: Could not find anim build FROMNUM
+[00:41:50]: Could not find anim build FROMNUM
+[00:41:50]: Could not find anim build FROMNUM
+[00:45:21]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:50:56]: [200] Account Communication Success (6)
+[00:50:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[00:50:58]: Locomotor: Waiting for server...
+[00:50:58]: Locomotor: Buffering...
+[00:50:58]: Locomotor: Reset
+[00:51:13]: Locomotor: Waiting for server...
+[00:51:13]: Locomotor: Buffering...
+[00:51:13]: Locomotor: Reset
+[00:52:56]: Could not find anim build FROMNUM
+[00:52:56]: Could not find anim build FROMNUM
+[00:52:56]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:52:57]: Could not find anim build FROMNUM
+[00:53:23]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[00:57:30]: Could not find anim build FROMNUM
+[00:57:30]: Could not find anim build FROMNUM
+[00:57:30]: Could not find anim build FROMNUM
+[00:57:54]: Could not find anim build FROMNUM
+[00:57:54]: Could not find anim build FROMNUM
+[00:57:54]: Could not find anim build FROMNUM
+[00:59:32]: Could not find anim build FROMNUM
+[00:59:32]: Could not find anim build FROMNUM
+[00:59:32]: Could not find anim build FROMNUM
+[01:01:25]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:02:03]: Could not find anim build FROMNUM
+[01:02:03]: Could not find anim build FROMNUM
+[01:02:03]: Could not find anim build FROMNUM
+[01:02:49]: Could not find anim build FROMNUM
+[01:02:49]: Could not find anim build FROMNUM
+[01:02:49]: Could not find anim build FROMNUM
+[01:03:01]: Could not find anim build FROMNUM
+[01:03:01]: Could not find anim build FROMNUM
+[01:03:01]: Could not find anim build FROMNUM
+[01:03:14]: Locomotor: Waiting for server...
+[01:03:14]: Locomotor: Buffering...
+[01:03:14]: Locomotor: Reset
+[01:03:49]: Could not find anim build FROMNUM
+[01:03:49]: Could not find anim build FROMNUM
+[01:03:49]: Could not find anim build FROMNUM
+[01:04:24]: Could not find anim build FROMNUM
+[01:04:24]: Could not find anim build FROMNUM
+[01:04:24]: Could not find anim build FROMNUM
+[01:04:56]: Locomotor: Waiting for server...
+[01:04:56]: Locomotor: Buffering...
+[01:04:56]: Locomotor: Reset
+[01:06:01]: Could not find anim build FROMNUM
+[01:06:01]: Could not find anim build FROMNUM
+[01:06:01]: Could not find anim build FROMNUM
+[01:06:25]: Could not find anim build FROMNUM
+[01:06:25]: Could not find anim build FROMNUM
+[01:06:25]: Could not find anim build FROMNUM
+[01:09:27]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:11:12]: Could not find anim build FROMNUM
+[01:11:12]: Could not find anim build FROMNUM
+[01:11:12]: Could not find anim build FROMNUM
+[01:14:37]: Could not find anim build FROMNUM
+[01:14:37]: Could not find anim build FROMNUM
+[01:14:37]: Could not find anim build FROMNUM
+[01:17:28]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:18:18]: Could not find anim build FROMNUM
+[01:18:18]: Could not find anim build FROMNUM
+[01:18:18]: Could not find anim build FROMNUM
+[01:18:42]: Could not find anim build FROMNUM
+[01:18:42]: Could not find anim build FROMNUM
+[01:18:42]: Could not find anim build FROMNUM
+[01:20:56]: [200] Account Communication Success (6)
+[01:20:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:24:00]: Locomotor: Waiting for server...
+[01:24:00]: Locomotor: Resynced
+[01:25:30]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:26:20]: Could not find anim [idle_loop] in bank [scarecrow]
+[01:26:40]: Could not find anim build FROMNUM
+[01:26:40]: Could not find anim build FROMNUM
+[01:26:40]: Could not find anim build FROMNUM
+[01:29:11]: Could not find anim build FROMNUM
+[01:29:11]: Could not find anim build FROMNUM
+[01:29:11]: Could not find anim build FROMNUM
+[01:29:40]: Could not find anim build FROMNUM
+[01:29:40]: Could not find anim build FROMNUM
+[01:29:40]: Could not find anim build FROMNUM
+[01:30:06]: Could not find anim build FROMNUM
+[01:30:06]: Could not find anim build FROMNUM
+[01:30:06]: Could not find anim build FROMNUM
+[01:33:32]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:34:20]: Could not find anim build FROMNUM
+[01:34:20]: Could not find anim build FROMNUM
+[01:34:20]: Could not find anim build FROMNUM
+[01:36:47]: Could not find anim build FROMNUM
+[01:36:47]: Could not find anim build FROMNUM
+[01:36:47]: Could not find anim build FROMNUM
+[01:41:34]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:44:48]: Could not find anim build FROMNUM
+[01:44:48]: Could not find anim build FROMNUM
+[01:44:48]: Could not find anim build FROMNUM
+[01:44:51]: Could not find anim build FROMNUM
+[01:44:51]: Could not find anim build FROMNUM
+[01:44:51]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:45:25]: Could not find anim build FROMNUM
+[01:49:36]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:50:56]: [200] Account Communication Success (6)
+[01:50:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[01:53:42]: Could not find anim build FROMNUM
+[01:53:42]: Could not find anim build FROMNUM
+[01:53:42]: Could not find anim build FROMNUM
+[01:53:52]: Could not find anim build FROMNUM
+[01:53:52]: Could not find anim build FROMNUM
+[01:53:52]: Could not find anim build FROMNUM
+[01:57:38]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[01:59:08]: Could not find anim build FROMNUM
+[01:59:08]: Could not find anim build FROMNUM
+[01:59:08]: Could not find anim build FROMNUM
+[02:01:39]: Could not find anim build FROMNUM
+[02:01:39]: Could not find anim build FROMNUM
+[02:01:39]: Could not find anim build FROMNUM
+[02:02:15]: Could not find anim build FROMNUM
+[02:02:15]: Could not find anim build FROMNUM
+[02:02:15]: Could not find anim build FROMNUM
+[02:05:39]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:10:09]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[02:13:41]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:16:51]: Could not find anim build FROMNUM
+[02:16:51]: Could not find anim build FROMNUM
+[02:16:51]: Could not find anim build FROMNUM
+[02:17:02]: Could not find anim build FROMNUM
+[02:17:02]: Could not find anim build FROMNUM
+[02:17:02]: Could not find anim build FROMNUM
+[02:20:56]: [200] Account Communication Success (6)
+[02:20:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[02:21:42]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:29:45]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:37:46]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:45:48]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:47:33]: Could not find anim build FROMNUM
+[02:47:33]: Could not find anim build FROMNUM
+[02:47:33]: Could not find anim build FROMNUM
+[02:47:35]: Could not find anim build FROMNUM
+[02:47:35]: Could not find anim build FROMNUM
+[02:47:35]: Could not find anim build FROMNUM
+[02:48:54]: Could not find anim build FROMNUM
+[02:48:54]: Could not find anim build FROMNUM
+[02:48:54]: Could not find anim build FROMNUM
+[02:50:56]: [200] Account Communication Success (6)
+[02:50:56]: Received (KU_qaTCHhq7) from TokenPurpose
+[02:53:50]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:54:55]: DoRestart:	true	
+[02:54:56]: Serializing user: session/5673286FA736B4FF/A7MI8T64DF87/0000000001
+[02:54:56]: [Steam] Game Connection terminated (2130706433|10999)
+[02:54:56]: [Shard] Stopping shard mode
+[02:54:56]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:54:56]: [IPC] Sending signal... #00000A58
+[02:55:00]: [IPC] Unregistering handler for signal #00000A38
+[02:55:00]: [IPC] Unregistering handler for signal #00000A3C
+[02:55:00]: [IPC] Unregistering handler for signal #00000A0C
+[02:55:00]: [IPC] Unregistering handler for signal #00000960
+[02:55:00]: [IPC] Unregistering handler for signal #00000A28
+[02:55:00]: [IPC] Sending signal... #00000A70
+[02:55:02]: [IPC] Unregistering handler for signal #00000A5C
+[02:55:02]: [IPC] Unregistering handler for signal #00000A30
+[02:55:02]: [IPC] Unregistering handler for signal #00000A08
+[02:55:02]: [IPC] Unregistering handler for signal #00000A34
+[02:55:02]: [IPC] Unregistering handler for signal #00000A6C
+[02:55:02]: Collecting garbage...
+[02:55:02]: lua_gc took 0.06 seconds
+[02:55:02]: ~ShardLuaProxy()
+[02:55:02]: ~cEventLeaderboardProxy()
+[02:55:02]: ~ItemServerLuaProxy()
+[02:55:02]: ~InventoryLuaProxy()
+[02:55:02]: ~NetworkLuaProxy()
+[02:55:02]: ~SimLuaProxy()
+[02:55:02]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:55:02]: lua_close took 0.14 seconds
+[02:55:02]: ReleaseAll
+[02:55:02]: ReleaseAll Finished
+[02:55:02]: cGame::StartPlaying
+[02:55:02]: LOADING LUA
+[02:55:02]: DoLuaFile scripts/main.lua
+[02:55:02]: DoLuaFile loading buffer scripts/main.lua
+[02:55:03]:   taskgrouplist:	default	Together	
+[02:55:03]:   taskgrouplist:	classic	Classic	
+[02:55:03]:   taskgrouplist:	cave_default	Underground	
+[02:55:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:55:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:55:03]: running main.lua
+	
+[02:55:03]: unloading prefabs for mod MOD_workshop-375859599	
+[02:55:03]: unloading prefabs for mod MOD_workshop-632082897	
+[02:55:03]: loaded modindex	
+[02:55:03]: ModIndex: Beginning normal load sequence.
+	
+[02:55:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[02:55:08]: LOADING LUA SUCCESS
+[02:55:08]: PlayerDeaths loaded morgue	3337	
+[02:55:08]: PlayerHistory loaded player_history (v2) len:800	
+[02:55:08]: ServerPreferences could not load server_preferences	
+[02:55:08]: bloom_enabled	false	
+[02:55:08]: loaded saveindex	
+[02:55:08]: OnFilesLoaded()	
+[02:55:08]: OnUpdatePurchaseStateComplete	
+[02:55:08]: Klump load on boot started.	
+[02:55:08]: Klump files loaded: 	0	
+[02:55:08]: 	Unload characters	
+[02:55:08]: 	Unload BE	
+[02:55:08]: 	Unload BE done	
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (splash_ocean)
+[02:55:09]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[02:55:09]: Could not unload undefined prefab (ocean_splash_med1)
+[02:55:09]: Could not unload undefined prefab (splash_ocean)
+[02:55:44]: 	Load FE	
+[02:55:45]: 	Load FE: done	
+[02:55:45]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/blocklist.txt (Failure)
+[02:55:45]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/158558781/client_save/adminlist.txt (Failure)
+[02:55:45]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/158558781/client_save/whitelist.txt (Failure)
+[02:55:45]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=PL&lang=polish&user=76561198118824509	
+[02:55:45]: SimLuaProxy::QueryServer()
+[02:55:45]: Check for write access: TRUE
+[02:55:45]: Check for read access: TRUE
+[02:55:45]: ModIndex: Load sequence finished successfully.	
+[02:55:45]: Reset() returning
+[02:55:47]: [MOTD] Downloading image for box1
+[02:55:49]: [MOTD] Downloading image for box5
+[02:55:49]: [MOTD] Done Loading.	
+[02:55:53]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:55:53]: Collecting garbage...
+[02:55:54]: lua_gc took 0.06 seconds
+[02:55:54]: ~ShardLuaProxy()
+[02:55:54]: ~cEventLeaderboardProxy()
+[02:55:54]: ~ItemServerLuaProxy()
+[02:55:54]: ~InventoryLuaProxy()
+[02:55:54]: ~NetworkLuaProxy()
+[02:55:54]: ~SimLuaProxy()
+[02:55:54]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:55:54]: lua_close took 0.09 seconds
+[02:55:54]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:55:54]: [Steam] Auth ticket cancelled
+[02:55:54]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:55:54]: anim/structure_collapse_fx.zip - 3
+[02:55:54]: anim/oceanfishing_bobber_sporty_build.zip - 9
+[02:55:54]: anim/splash_ocean.zip - 3
+[02:55:54]: anim/gems.zip - 18
+[02:55:54]: anim/oceanfishingbobber_goose_build.zip - 9
+[02:55:54]: anim/statue_ruins_small.zip - 12
+[02:55:54]: anim/oceanfishing_bobber_ball_build.zip - 9
+[02:55:54]: anim/statue_ruins.zip - 12
+[02:55:54]: anim/statue_ruins_small_gem.zip - 12
+[02:55:54]: anim/oceanfishingbobber_robin_build.zip - 9
+[02:55:54]: anim/splash_water_drop.zip - 15
+[02:55:54]: anim/oceanfishingbobber_robin_winter_build.zip - 9
+[02:55:54]: anim/nightmarefuel.zip - 3
+[02:55:54]: anim/oceanfishing_bobber_ball.zip - 72
+[02:55:54]: anim/oceanfishingbobber_crow_build.zip - 9
+[02:55:54]: anim/oceanfishingbobber_canary_build.zip - 9
+[02:55:54]: anim/die.zip - 3
+[02:55:54]: anim/statue_ruins_gem.zip - 12
+[02:55:54]: anim/thulecite.zip - 3
+[02:55:54]: anim/statue_ruins_fx.zip - 3
+[02:55:54]: anim/oceanfishingbobber_malbatross_build.zip - 9
+[02:55:54]: anim/oceanfishing_hook.zip - 3
+[02:55:54]: anim/marble.zip - 3
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:55:54]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[02:55:54]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[02:55:54]: anim/gems.zip:gems--atlas-0.tex - 1
+[02:55:54]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[02:55:54]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[02:55:54]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[02:55:54]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishingbobber_robin_winter_build.zip:oceanfishingbobber_robin_winter_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishingbobber_malbatross_build.zip:oceanfishingbobber_malbatross_build--atlas-0.tex - 1
+[02:55:54]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[02:55:54]: anim/oceanfishingbobber_robin_build.zip:oceanfishingbobber_robin_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishing_hook.zip:oceanfishing_hook--atlas-0.tex - 1
+[02:55:54]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[02:55:54]: anim/splash_water_drop.zip:splash_water_drop--atlas-0.tex - 1
+[02:55:54]: anim/splash_ocean.zip:splash_ocean--atlas-0.tex - 1
+[02:55:54]: anim/marble.zip:marble--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishingbobber_goose_build.zip:oceanfishingbobber_goose_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishing_bobber_sporty_build.zip:oceanfishing_bobber_sporty_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishing_bobber_ball_build.zip:oceanfishing_bobber_ball_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishingbobber_crow_build.zip:oceanfishingbobber_crow_build--atlas-0.tex - 1
+[02:55:54]: anim/oceanfishingbobber_canary_build.zip:oceanfishingbobber_canary_build--atlas-0.tex - 1
+[02:55:54]: anim/die.zip:die--atlas-0.tex - 1
+[02:55:54]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:55:54]: CurlRequestManager::ClientThread::Main() complete
+[02:55:54]: HttpClient2 discarded 0 callbacks.
+[02:55:55]: Shutting down

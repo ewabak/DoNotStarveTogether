@@ -1,0 +1,16 @@
+[00:01:14]: [Join Announcement] ewa.j.bak
+[00:03:28]: [Join Announcement] whoifnotme
+[00:06:32]: [Join Announcement] karol_s16
+[00:08:07]: [Join Announcement] BrylatOrigin
+[00:24:07]: [Leave Announcement] BrylatOrigin
+[00:24:07]: [Leave Announcement] whoifnotme
+[00:24:07]: [Leave Announcement] karol_s16
+[00:24:45]: [Join Announcement] BrylatOrigin
+[00:26:07]: [Join Announcement] whoifnotme
+[00:27:14]: [Join Announcement] karol_s16
+[00:33:08]: [Skin Announcement] ewa.j.bak legs_tweed_knickerbocker_grey_steel
+[00:33:31]: [Leave Announcement] BrylatOrigin
+[00:35:28]: [Join Announcement] BrylatOrigin
+[00:37:25]: [Death Announcement] ewa.j.bak was killed by Terrorbeak. She became a spooky ghost!
+[00:37:29]: [Death Announcement] BrylatOrigin was killed by Terrorbeak. He became a spooky ghost!
+[00:37:52]: [Leave Announcement] ewa.j.bak

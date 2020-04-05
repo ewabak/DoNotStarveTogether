@@ -1,0 +1,7 @@
+[00:01:46]: [Join Announcement] ewa.j.bak
+[00:02:00]: [Join Announcement] whoifnotme
+[00:02:26]: [Join Announcement] BrylatOrigin
+[00:09:40]: [Skin Announcement] ewa.j.bak hand_wes_nature
+[00:17:35]: [Leave Announcement] ewa.j.bak
+[00:17:37]: [Leave Announcement] whoifnotme
+[00:17:37]: [Leave Announcement] BrylatOrigin

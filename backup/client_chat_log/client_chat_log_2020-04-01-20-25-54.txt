@@ -1,0 +1,18 @@
+[00:05:32]: [Join Announcement] whoifnotme
+[00:20:10]: [Death Announcement] whoifnotme was killed by Crawling Horror. He became a spooky ghost!
+[00:26:34]: [Resurrect Announcement] whoifnotme was resurrected by ewa.j.bak.
+[00:29:01]: [Death Announcement] whoifnotme was killed by Tallbird. He became a spooky ghost!
+[00:29:13]: [Death Announcement] ewa.j.bak was killed by Tallbird. She became a spooky ghost!
+[00:31:46]: [Join Announcement] whoifnotme
+[00:32:24]: [Leave Announcement] whoifnotme
+[00:33:12]: [Join Announcement] whoifnotme
+[01:09:14]: [Death Announcement] whoifnotme was killed by Hound. He became a spooky ghost!
+[01:11:39]: [Join Announcement] whoifnotme
+[01:17:24]: [Death Announcement] whoifnotme was killed by Hound. He became a spooky ghost!
+[01:21:07]: [Join Announcement] whoifnotme
+[01:52:16]: [Death Announcement] whoifnotme was killed by Darkness. He became a spooky ghost!
+[01:53:01]: [Resurrect Announcement] whoifnotme was resurrected by ewa.j.bak.
+[02:37:01]: [Leave Announcement] whoifnotme
+[02:40:58]: [Join Announcement] whoifnotme
+[03:02:12]: [Leave Announcement] whoifnotme
+[03:03:04]: [Join Announcement] whoifnotme

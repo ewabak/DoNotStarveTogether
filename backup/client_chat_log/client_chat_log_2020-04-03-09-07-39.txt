@@ -1,0 +1,22 @@
+[00:09:39]: [Join Announcement] whoifnotme
+[00:21:49]: [Leave Announcement] whoifnotme
+[00:26:49]: [Join Announcement] whoifnotme
+[01:00:57]: [Death Announcement] ewa.j.bak was killed by Bee. She became a spooky ghost!
+[01:05:16]: [Resurrect Announcement] ewa.j.bak was resurrected by whoifnotme.
+[01:47:34]: [Join Announcement] karol_s16
+[02:23:48]: [Death Announcement] karol_s16 was killed by Hound. He became a spooky ghost!
+[02:26:15]: [Join Announcement] whoifnotme
+[02:28:49]: [Join Announcement] karol_s16
+[02:29:20]: [Resurrect Announcement] karol_s16 was resurrected by ewa.j.bak.
+[02:57:45]: [Death Announcement] whoifnotme was killed by Tentacle. He became a spooky ghost!
+[02:58:45]: [Resurrect Announcement] whoifnotme was resurrected by ewa.j.bak.
+[03:01:13]: [Death Announcement] ewa.j.bak was killed by Tentacle. She became a spooky ghost!
+[03:03:18]: [Join Announcement] karol_s16
+[03:04:45]: [Join Announcement] whoifnotme
+[03:13:16]: [Leave Announcement] karol_s16
+[03:13:54]: [Join Announcement] karol_s16
+[03:23:32]: [Leave Announcement] karol_s16
+[03:24:14]: [Join Announcement] karol_s16
+[03:35:02]: [Leave Announcement] karol_s16
+[03:35:27]: [Join Announcement] karol_s16
+[03:44:20]: [Leave Announcement] whoifnotme

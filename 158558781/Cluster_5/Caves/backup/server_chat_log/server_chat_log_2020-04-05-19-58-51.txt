@@ -1,0 +1,6 @@
+[00:01:20]: [Join Announcement] ewa.j.bak
+[00:01:53]: [Join Announcement] whoifnotme
+[00:02:12]: [Join Announcement] karol_s16
+[00:11:59]: [Leave Announcement] whoifnotme
+[00:12:13]: [Leave Announcement] karol_s16
+[00:12:17]: [Leave Announcement] ewa.j.bak

@@ -1,0 +1,15 @@
+[00:05:33]: [Join Announcement] BrylatOrigin
+[00:06:31]: [Join Announcement] karol_s16
+[00:09:53]: [Join Announcement] whoifnotme
+[00:16:32]: [Leave Announcement] BrylatOrigin
+[00:22:26]: [Join Announcement] BrylatOrigin
+[00:25:06]: [Leave Announcement] BrylatOrigin
+[00:34:13]: [Join Announcement] BrylatOrigin
+[00:34:39]: [Leave Announcement] BrylatOrigin
+[00:52:22]: [Skin Announcement] karol_s16 feet_sneakers_orange_carrot
+[01:54:06]: [Skin Announcement] karol_s16 body_buttons_pink_hibiscus
+[02:25:24]: [Leave Announcement] karol_s16
+[02:28:44]: [Join Announcement] karol_s16
+[02:59:46]: [Skin Announcement] karol_s16 body_tweedvest_brown_chocolate
+[03:06:27]: [Skin Announcement] whoifnotme body_polo_green_pistachio
+[03:11:05]: [Leave Announcement] whoifnotme

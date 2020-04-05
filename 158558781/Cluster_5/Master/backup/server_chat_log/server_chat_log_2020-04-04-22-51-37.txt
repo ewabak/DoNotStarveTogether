@@ -1,0 +1,8 @@
+[00:02:10]: [Join Announcement] ewa.j.bak
+[00:04:40]: [Join Announcement] karol_s16
+[00:10:22]: [Join Announcement] whoifnotme
+[00:40:22]: [Death Announcement] karol_s16 was killed by Hound. He became a spooky ghost!
+[00:40:39]: [Leave Announcement] whoifnotme
+[00:40:40]: [Death Announcement] ewa.j.bak was killed by Hound. She became a spooky ghost!
+[00:40:44]: [Leave Announcement] ewa.j.bak
+[00:40:46]: [Leave Announcement] karol_s16

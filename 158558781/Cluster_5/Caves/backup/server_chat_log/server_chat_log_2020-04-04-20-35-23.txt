@@ -1,0 +1,7 @@
+[00:01:20]: [Join Announcement] ewa.j.bak
+[00:01:52]: [Join Announcement] whoifnotme
+[00:19:57]: [Join Announcement] BrylatOrigin
+[00:20:30]: [Death Announcement] BrylatOrigin was killed by Hound. They became a spooky ghost!
+[00:20:30]: [Leave Announcement] BrylatOrigin
+[00:20:59]: [Leave Announcement] whoifnotme
+[00:21:02]: [Leave Announcement] ewa.j.bak
